@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../stripe.css";
+import "../Stripe.css";
 import {
   PaymentElement,
   useStripe,
